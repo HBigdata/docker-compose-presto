@@ -1,5 +1,3 @@
-[TOC]
-
 ## 一、概述
 Presto是一个快速的分布式查询引擎，最初由Facebook开发，目前归属于 Presto Software Foundation（由 Facebook、Teradata 和其他公司共同支持）。Presto的核心特点是支持远程数据访问，可以查询包括Hadoop、Cassandra、Relational databases、NoSQL databases在内的多个数据源。Presto支持标准的SQL语法，同时提供了一些扩展功能，如分布式查询、动态分区、自定义聚合和分析函数等。
 
