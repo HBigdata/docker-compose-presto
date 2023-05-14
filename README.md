@@ -40,7 +40,7 @@ docker network create hadoop-network
 docker network ls
 ```
 
-### 四、开始部署
+## 四、开始部署
 ```bash
 git clone https://gitee.com/hadoop-bigdata/docker-compose-presto.git
 cd docker-compose-presto
