@@ -127,4 +127,4 @@ select * from hive.default.student;
 
 docker-compose 快速部署 Presto（Trino）保姆级教程就先到这里了，有任何疑问可关注我的公众号【大数据与云原生技术分享】加群交流或私信咨询问题，如这篇文章对你有所帮助，麻烦帮忙一键三连（**点赞、转发、加关注**）哦~
 
-![](https://img2023.cnblogs.com/blog/1601821/202305/1601821-20230514085916578-1286210229.png)
+![输入图片说明](images/wx.png)
